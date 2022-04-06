@@ -1,1 +1,12 @@
-# test
+https://ac.atol.ru
+https://lk.atol.ru/#/auth/login
+https://uc.atol.ru/login/index.php
+https://term.atol.ru/RDWeb/webclient/index.html
+https://www.atol.ru
+https://185.71.67.137:443
+http://185.71.67.137:80
+https://online.atol.ru
+https://185.31.134.104:443
+http://185.31.134.104:80
+http://185.31.134.103:80
+https://185.31.134.103:443
